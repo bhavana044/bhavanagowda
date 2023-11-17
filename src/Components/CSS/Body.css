@@ -1,0 +1,8 @@
+.image{
+    height: 666px;
+    width: 666px;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    margin: 55px;
+}
